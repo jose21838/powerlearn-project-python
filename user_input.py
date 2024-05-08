@@ -4,5 +4,5 @@ name=input("please enter yur name")
 age=input("please enter your age")
 #ask user for their location
 location=input("please enter your location of stay")
-#print users personal message
+#print users personal message 
 print("Hello ",name, "you are" ,age, "years old and live in" ,location)
